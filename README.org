@@ -1,0 +1,4 @@
+* elpa-archive
+Local elpa repository created by [[https://github.com/redguardtoo/elpa-mirror][elpa-mirror]].
+
+See: [[https://github.com/redguardtoo/myelpa/][myelpa]] for use instructions.
